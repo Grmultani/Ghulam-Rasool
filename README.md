@@ -1,3 +1,5 @@
+![Ghulam Rasool - Full Stack Web Developer](banner.png)
+
 # Hi, I'm Ghulam Rasool 👋
 
 **Full-Stack Web Developer (React, Node.js, Express, MongoDB)** — I build complete web applications, and I fix the ones that are broken.
